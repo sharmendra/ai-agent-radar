@@ -1,6 +1,6 @@
-# Agent Stack Radar
+# ai-agent-radar
 
-A stunning enterprise-meets-edgy static site tracking the top AI agent frameworks right now.
+Top AI Agent Framework radar — an enterprise-meets-edgy static site tracking the leading AI agent frameworks right now.
 
 Live site: https://ai-agent-radar-three.vercel.app
 
