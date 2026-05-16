@@ -2,8 +2,6 @@
 
 Top AI Agent Framework radar — an enterprise-meets-edgy static site tracking the leading AI agent frameworks right now.
 
-Live site: https://ai-agent-radar-three.vercel.app
-
 ## What updates continuously
 
 - The ranking/content is curated and versioned in `app.js`.
